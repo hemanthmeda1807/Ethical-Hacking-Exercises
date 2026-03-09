@@ -1,7 +1,7 @@
-# Project 2: Penetration Testing a Vulnerable Web Application using OWASP Juice Shop on Kali Linux
+# Exercise 2: Penetration Testing a Vulnerable Web Application using OWASP Juice Shop on Kali Linux
 
 ## Introduction
-In this project, you will learn how to use various tools to perform penetration testing on a vulnerable web application, OWASP Juice Shop. OWASP Juice Shop is a deliberately insecure web application for educational purposes. This project will help you understand common web vulnerabilities and how to exploit them ethically.
+In this exercise, you will learn how to use various tools to perform penetration testing on a vulnerable web application, OWASP Juice Shop. OWASP Juice Shop is a deliberately insecure web application for educational purposes. This exercise will help you understand common web vulnerabilities and how to exploit them ethically.
 
 ## Pre-requisites
 - Basic understanding of web application concepts (HTTP, HTTPS, web servers).
@@ -89,5 +89,5 @@ Burp Suite Documentation
 Web Security Academy by PortSwigger
 Kali Linux Documentation
 
-This project will help you understand common web vulnerabilities and how to exploit them ethically using Kali Linux and OWASP Juice Shop.
+This exercise will help you understand common web vulnerabilities and how to exploit them ethically using Kali Linux and OWASP Juice Shop.
 
