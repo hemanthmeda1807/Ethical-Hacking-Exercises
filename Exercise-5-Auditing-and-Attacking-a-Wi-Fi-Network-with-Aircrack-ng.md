@@ -1,7 +1,7 @@
-# Project 5: Auditing and Attacking a Wi-Fi Network with Aircrack-ng on Kali Linux
+# Exercise 5: Auditing and Attacking a Wi-Fi Network with Aircrack-ng on Kali Linux
 
 ## Introduction
-In this project, you will learn how to use Aircrack-ng, a suite of tools for auditing and attacking Wi-Fi networks. This project will help you understand the security vulnerabilities in Wi-Fi networks and how to exploit them ethically. By the end of this project, you will be able to perform network discovery, capture packets, and crack WEP/WPA/WPA2 passwords.
+In this exercise, you will learn how to use Aircrack-ng, a suite of tools for auditing and attacking Wi-Fi networks. This exercise will help you understand the security vulnerabilities in Wi-Fi networks and how to exploit them ethically. By the end of this exercise, you will be able to perform network discovery, capture packets, and crack WEP/WPA/WPA2 passwords.
 
 ## Pre-requisites
 - Basic understanding of wireless networking concepts (SSID, BSSID, channels).
@@ -91,4 +91,4 @@ Wireshark Documentation
 Securing Your Wi-Fi Network
 
 
-This project will help you understand how to audit and attack Wi-Fi networks using Aircrack-ng on Kali Linux, and provide you with the skills to improve the security of your own wireless networks.
+This exercise will help you understand how to audit and attack Wi-Fi networks using Aircrack-ng on Kali Linux, and provide you with the skills to improve the security of your own wireless networks.
