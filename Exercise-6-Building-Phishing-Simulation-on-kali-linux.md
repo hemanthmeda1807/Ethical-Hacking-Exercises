@@ -1,7 +1,7 @@
-# Project 6: Creating and Defending Against Phishing Attacks on Kali Linux
+# Exercise 6: Creating and Defending Against Phishing Attacks on Kali Linux
 
 ## Introduction
-In this project, you will learn how to create and defend against phishing attacks using Kali Linux. Phishing is a common technique used by attackers to steal sensitive information such as usernames, passwords, and credit card details. By the end of this project, you will be able to simulate phishing attacks for educational purposes and understand how to protect against them.
+In this exercise, you will learn how to create and defend against phishing attacks using Kali Linux. Phishing is a common technique used by attackers to steal sensitive information such as usernames, passwords, and credit card details. By the end of this exercise, you will be able to simulate phishing attacks for educational purposes and understand how to protect against them.
 
 ## Pre-requisites
 - Basic understanding of email and web technologies.
@@ -99,4 +99,4 @@ Expected Outcome: Increased awareness and reduced susceptibility to phishing att
 - Anti-Phishing Working Group
 - Phishing Defense Guide
   
-This project will help you understand how to create and defend against phishing attacks using Kali Linux and Gophish, enhancing your skills in social engineering and cybersecurity awareness.
+This exercise will help you understand how to create and defend against phishing attacks using Kali Linux and Gophish, enhancing your skills in social engineering and cybersecurity awareness.
