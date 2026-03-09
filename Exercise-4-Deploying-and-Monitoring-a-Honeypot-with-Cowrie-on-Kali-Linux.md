@@ -1,7 +1,7 @@
-# Project 4: Deploying and Monitoring a Honeypot with Cowrie on Kali Linux
+# Exercise 4: Deploying and Monitoring a Honeypot with Cowrie on Kali Linux
 
 ## Introduction
-In this project, you will learn how to deploy and monitor a honeypot using Cowrie, a popular SSH and Telnet honeypot. Honeypots are valuable tools for security research, as they can capture and analyze malicious activities. By the end of this project, you will be able to set up Cowrie, monitor intrusions, and analyze the collected data.
+In this exercise, you will learn how to deploy and monitor a honeypot using Cowrie, a popular SSH and Telnet honeypot. Honeypots are valuable tools for security research, as they can capture and analyze malicious activities. By the end of this exercise, you will be able to set up Cowrie, monitor intrusions, and analyze the collected data.
 
 ## Pre-requisites
 - Basic understanding of SSH and Telnet protocols.
@@ -137,7 +137,7 @@ Docker Documentation
 Splunk Documentation
 Splunk Tutorials
 
-This project will help you understand how to deploy and monitor a honeypot using Cowrie on Kali Linux, forward the logs to Splunk, and analyze the data to gain insights into malicious activities.
+This exercise will help you understand how to deploy and monitor a honeypot using Cowrie on Kali Linux, forward the logs to Splunk, and analyze the data to gain insights into malicious activities.
 
 
 
